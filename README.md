@@ -1,5 +1,4 @@
 
-```
 # To-Do List App with Docker
 
 This project demonstrates how to run a simple Python-based To-Do List app using Tkinter inside a Docker container.
@@ -17,7 +16,7 @@ This project demonstrates how to run a simple Python-based To-Do List app using 
 - Dockerized for easy deployment
 
 
-```
+
 
 
 ## Watch the Demo
