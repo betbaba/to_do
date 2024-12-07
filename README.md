@@ -12,7 +12,6 @@ This project demonstrates how to run a simple Python-based To-Do List app using 
 ## Features
 
 - Add, Delete, and Complete Tasks
-- Persistent data storage using `todolist.json`
 - Dockerized for easy deployment
 
 
